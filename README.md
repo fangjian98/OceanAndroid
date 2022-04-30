@@ -2,13 +2,17 @@
 
 💡 This is a ocean space to explore interesting projects about android.
 
+[![GitHub issues](https://img.shields.io/github/issues/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid/pulls)
+[![GitHub forks](https://img.shields.io/github/forks/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid)
+[![GitHub Repo stars](https://img.shields.io/github/stars/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid)
+[![GitHub license](https://img.shields.io/github/license/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid/blob/master/LICENSE)
 
 
 ## Projects
 
-- LearnDemo
-
-
+- [LearnDemo](https://github.com/fangjian98/OceanAndroid/tree/main/projects/LearnDemo)
+- [WifiAnalysis](https://github.com/fangjian98/OceanAndroid/tree/main/projects/WifiAnalysis)
 
 ## License
 
