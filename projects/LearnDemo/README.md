@@ -1,2 +1,3 @@
-## This is a learn android demo
+## LearnDemo
 
+👉 This is an Android development learning Demo.
