@@ -6,7 +6,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid/pulls)
 [![GitHub forks](https://img.shields.io/github/forks/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid)
 [![GitHub Repo stars](https://img.shields.io/github/stars/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid)
-[![GitHub license](https://img.shields.io/github/license/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/fangjian98/OceanAndroid)](https://github.com/fangjian98/OceanAndroid/blob/main/LICENSE)
 
 
 
