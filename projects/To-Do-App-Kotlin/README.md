@@ -1,7 +1,10 @@
-# To-Do App Developed in Kotlin for the purpose of an online course
+# To-Do-App-Kotlin 
 
-Course Links 
+👉 This is a To-Do app using Kotlin and Jetpack  Architecture.
 
-Udemy: https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/?referralCode=9836891EDBD1479ECF50
+**To-Do App & Clean Architecture -Android Development - Kotlin**
 
-![alt text](https://i.postimg.cc/SsqJrbjX/thumb.png)
+Develop a Fully Functional To-Do app in Kotlin - ROOM, Navigation Component, LiveData, ViewModel, Data Binding and more.
+
+Course Links :[Udemy]( https://www.udemy.com/course/to-do-app-clean-archaitecture-android-development-kotlin/?referralCode=9836891EDBD1479ECF50)
+
