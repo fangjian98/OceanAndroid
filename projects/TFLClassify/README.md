@@ -1,3 +1,15 @@
+# TFLClassify
+
+👉 This is a Image Classify app using TensorFLow Lite Model.
+
+- [FlowerModel.tflite](https://github.com/fangjian98/OceanAndroid/blob/main/projects/TFLClassify/FlowerModel.tflite) 该文件是使用TensorFlow Lite训练结果文件，将其导入Android Studio项目中，路径为`/start/src/main/ml/`FlowerModel.tflite
+
+- 项目教程：[在 Android 上使用 TensorFlow Lite 识别花朵（测试版）](https://developers.google.cn/codelabs/recognize-flowers-with-tensorflow-on-android-beta#0)
+
+
+
+---
+
 # Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
 
 This folder contains the code for the TensorFlow Lite codelab:
@@ -30,13 +42,13 @@ Visit the Google codelabs site to follow along the guided steps.
 ## License
 
  Copyright (C) 2020 The Android Open Source Project
- 
+
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
  You may obtain a copy of the License at
 
 http://www.apache.org/licenses/LICENSE-2.0
- 
+
  Unless required by applicable law or agreed to in writing, software
  distributed under the License is distributed on an "AS IS" BASIS,
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
